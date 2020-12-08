@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7de14737-ed50-4508-8215-a89b6cd780a2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,10 +36,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="664" y="268" width="909" height="570" key="AVDManager" timestamp="1607327002272">
+    <state x="664" y="268" width="909" height="570" key="AVDManager" timestamp="1607332118959">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="664" y="268" width="909" height="570" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1607327002272" />
+    <state x="664" y="268" width="909" height="570" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1607332118959" />
     <state x="899" y="307" key="FileChooserDialogImpl" timestamp="1607326756152">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
