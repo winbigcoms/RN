@@ -20,15 +20,14 @@ const TodoInputs = ({addGoalHandler,visible,cancel})=>{
           style={styles.input} 
           onChangeText={goalHandler}
         />
-        <View stlye={styles.buttonContainer}>
-          <View stlye={styles.button}>
+        <View style={styles.buttonContainer}>
+          <View style={styles.button}>
             <Button 
               title="cancle" 
-              color="red" 
               onPress={cancel}
             />
           </View>
-          <View stlye={styles.button}>
+          <View style={styles.button}>
             <Button 
               title="ADD" 
               onPress={addGoal}
@@ -53,12 +52,12 @@ const styles = StyleSheet.create({
     marginBottom:10
   },
   buttonContainer:{
-    flex:1,
+    width:"60%",
     flexDirection:"row",
+    justifyContent:"space-around"
   },
   button:{
-    marginTop:10,
-    width:"40%",
-  },
+    width:"40%"
+  }
 })
 export default TodoInputs;
